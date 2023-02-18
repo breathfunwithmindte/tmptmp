@@ -1,0 +1,19 @@
+{
+  "name": "ecommercetemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.13.0",
+    "awesome-annotations": "^1.0.3"
+  }
+}

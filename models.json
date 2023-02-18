@@ -1,0 +1,14 @@
+{
+  "models": [
+    {
+      "name": "User",
+      "collectionname": "users",
+      "fields": [
+        {
+          "type": "String",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
